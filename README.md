@@ -88,3 +88,12 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/dna-sequence-analysis.git
+   
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+4. Launch jupyter notebook
+   ```bash
+   jupyter notebook
+   
