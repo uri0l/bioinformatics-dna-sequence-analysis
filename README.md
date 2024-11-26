@@ -12,7 +12,7 @@ This project showcases a comprehensive understanding of bioinformatics concepts,
 
 The primary objectives of this project are:
 1. **DNA Sequence Validation & Manipulation**: Implement methods to manipulate and validate DNA sequences, including operations such as reverse, complement, and reverse-complement.
-2. **Genetic Code Translation**: Translate DNA sequences into amino acid sequences, accounting for reading frames and potential frame shifts.
+2. **Genetic Code Translation**: Translate DNA sequences into amino acid sequences, accounting for reading frames and possible frame shifts.
 3. **Sequence Alignment**: Implement local and global sequence alignment algorithms (Smith-Waterman, Needleman-Wunsch) to find similarities and differences between DNA sequences.
 4. **Variant Calling**: Detect genetic variants (SNPs, insertions, deletions) by comparing a sample sequence with a reference genome.
 5. **Phylogenetic Tree Construction**: Build and visualize phylogenetic trees to explore the evolutionary relationships between different DNA sequences.
