@@ -27,34 +27,6 @@ The primary objectives of this project are:
 - **Phylogenetic Tree Construction**: Algorithms for constructing and visualizing phylogenetic trees from aligned DNA sequences, utilizing distance matrices and tree-building algorithms.
 - **Interactive Data Visualization**: Plots to visualize GC content, codon usage, sequence similarities, and phylogenetic relationships.
 
-### Methods
-
-#### 1. DNA Sequence Manipulation
-- Implement reverse, complement, and reverse-complement functions using Python.
-- Validate and manipulate DNA sequences to check for valid nucleotide compositions (A, T, G, C).
-
-#### 2. Genetic Code Translation
-- Translate a given DNA sequence into the corresponding amino acid sequence using the standard genetic code.
-- Account for reading frame shifts and handle sequences with multiple potential reading frames.
-
-#### 3. Sequence Alignment
-- Implement Needleman-Wunsch (global) and Smith-Waterman (local) sequence alignment algorithms using dynamic programming.
-- Use these alignments to compare DNA sequences and highlight conserved regions.
-- Visualize alignments using tools like Biopython.
-
-#### 4. Variant Calling
-- Compare a sample DNA sequence with a reference sequence to detect mutations.
-- Identify SNPs (Single Nucleotide Polymorphisms) and indels (insertions/deletions) by comparing aligned sequences.
-- Output a list of identified variants with their positions and types.
-
-#### 5. Phylogenetic Tree Construction
-- Build phylogenetic trees based on sequence similarity using algorithms like Neighbor-Joining or UPGMA (Unweighted Pair Group Method with Arithmetic Mean).
-- Visualize the tree using Biopython's Phylo module and draw the tree with graphical tools like Matplotlib.
-
-#### 6. Data Visualization
-- Plot GC content across different sequences to identify potential gene-rich or GC-poor regions.
-- Visualize codon usage frequency in a given sequence and create a plot for the most frequent codons.
-- Use hierarchical clustering or similarity matrices to visualize sequence similarities between species.
 
 ### Tools and Libraries Used
 
