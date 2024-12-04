@@ -18,16 +18,6 @@ The primary objectives of this project are:
 5. **Phylogenetic Tree Construction**: Build and visualize phylogenetic trees to explore the evolutionary relationships between different DNA sequences.
 6. **Data Visualization**: Use plots and graphs to visualize GC content, codon usage, and sequence similarities.
 
-### Key Features
-
-- **DNA Sequence Manipulation**: Functions for sequence validation (reverse, complement, reverse-complement) and visual representation of sequence data.
-- **Translation**: Functions that translate DNA sequences into protein sequences and incorporate reading frame shifts.
-- **Alignment**: Algorithms for sequence alignment, including global (Needleman-Wunsch) and local (Smith-Waterman) alignments, as well as visualizing the alignment results.
-- **Variant Detection**: Methods to identify genetic variants (e.g., SNPs, indels) by comparing sample DNA sequences to a reference genome.
-- **Phylogenetic Tree Construction**: Algorithms for constructing and visualizing phylogenetic trees from aligned DNA sequences, utilizing distance matrices and tree-building algorithms.
-- **Interactive Data Visualization**: Plots to visualize GC content, codon usage, sequence similarities, and phylogenetic relationships.
-
-
 ### Tools and Libraries Used
 
 - **Python**: Primary programming language used to implement bioinformatics algorithms.
@@ -47,11 +37,9 @@ The primary objectives of this project are:
 
 - **Improved Variant Calling**: Integrate with existing bioinformatics tools like GATK (Genome Analysis Toolkit) for more advanced variant detection.
 - **Optimization**: Refactor code for faster processing of large genomic datasets using parallel computing techniques.
-- **Web Interface**: Develop a web-based interface for real-time sequence analysis using Flask or Django, allowing users to upload sequences and view results interactively.
 
-### Conclusion
 
-This project demonstrates key bioinformatics skills, such as DNA sequence manipulation, genetic code translation, sequence alignment, variant calling, and phylogenetic tree construction. The methods implemented are foundational in bioinformatics and provide a valuable toolset for genetic analysis. This project not only serves as a technical portfolio piece but also highlights an understanding of how bioinformatics methods can be applied to solve real-world biological problems.
+This project not only serves as a technical portfolio piece but also highlights an understanding of how bioinformatics methods can be applied to solve real-world biological problems.
 
 ### Installation
 
