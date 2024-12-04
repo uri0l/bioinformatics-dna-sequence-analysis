@@ -4,9 +4,9 @@
 
 ### Overview
 
-This project presents a set of bioinformatics tools designed to analyze DNA sequences, detect genetic variants, and construct phylogenetic trees to explore evolutionary relationships between species. The project includes several key bioinformatics tasks such as DNA sequence manipulation, genetic code translation, sequence alignment, variant calling (SNPs, indels), and phylogenetic tree construction.
+This project presents a collection of bioinformatics tools designed for analyzing DNA sequences, detecting genetic variants, and constructing phylogenetic trees to explore evolutionary relationships between species. It reflects both academic and personal learning experiences gained during the early stages of a bachelor's degree in Bioinformatics.
 
-This project showcases a comprehensive understanding of bioinformatics concepts, with implementations of core algorithms and methods for real-world biological data analysis.
+The project includes key bioinformatics tasks, including DNA sequence manipulation, genetic code translation, sequence alignment, variant calling (SNPs, indels), and phylogenetic tree construction. By integrating these components, the project not only serves as a technical portfolio piece but also demonstrates a comprehensive understanding of bioinformatics concepts through the implementation of core algorithms and methods for real-world biological data analysis.
 
 ### Objectives
 
@@ -21,10 +21,10 @@ The primary objectives of this project are:
 ### Tools and Libraries Used
 
 - **Python**: Primary programming language used to implement bioinformatics algorithms.
+- **Jupyter Notebook**: For interactive code and results visualization
 - **Biopython**: A key library for handling biological data, including sequence manipulation, alignment, and phylogenetic tree construction.
 - **Matplotlib / Seaborn**: Libraries for data visualization and plotting.
 - **NumPy**: Used for efficient handling of sequences and mathematical operations.
-- **Jupyter Notebook**: For interactive code and results visualization.
 
 ### Results and Evaluation
 
@@ -37,9 +37,6 @@ The primary objectives of this project are:
 
 - **Improved Variant Calling**: Integrate with existing bioinformatics tools like GATK (Genome Analysis Toolkit) for more advanced variant detection.
 - **Optimization**: Refactor code for faster processing of large genomic datasets using parallel computing techniques.
-
-
-This project not only serves as a technical portfolio piece but also highlights an understanding of how bioinformatics methods can be applied to solve real-world biological problems.
 
 ### Installation
 
