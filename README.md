@@ -2,6 +2,8 @@
 
 ## Comprehensive DNA Sequence Analysis and Variant Detection
 
+> **Note**: This project is still in development. Features are being added and bugs may be present. Please use at your own discretion, and feel free to contribute!
+
 ### Overview
 
 This project presents a collection of bioinformatics tools designed for analyzing DNA sequences, detecting genetic variants, and constructing phylogenetic trees to explore evolutionary relationships between species. It reflects both academic and personal learning experiences gained during the early stages of a bachelor's degree in Bioinformatics.
